@@ -9,6 +9,8 @@
 
 1_data_cleaning.ipynb
 
-1.1_data_cleaning2.ipynb
+1_data_cleaning2.ipynb
+
+2_Visualization.ipynb
  
 and so on...
