@@ -31,3 +31,5 @@ _References: Intelligencia.ai_
 - **Lu** - Lucie's notebook files for testing.
 - **Mike** - Mike's notebook files for testing.
 - **X_name.ipynb** - Project notebooks.
+
+File `Data/TcgaTargetGtex_rsem_gene_tpm.txt` is ignored because it has size of 9GB. It can be downloaded from Xenabrowser from the link described above.

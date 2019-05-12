@@ -1,4 +1,5 @@
 # Project folders
+Data/TcgaTargetGtex_rsem_gene_tpm.txt
 Output/*
 !Output/.gitkeep
 
