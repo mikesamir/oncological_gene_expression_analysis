@@ -24,12 +24,18 @@ Factors that can explain difference in survival rates between clusters of patien
 
 _References: Intelligencia.ai_
 
-## Project File Structure
+## Project Structure
 
-- **Data** - Storage of project data which is immutable.
-- **Output** - Generated project files which should not be stored in a git repo.
-- **Lu** - Lucie's notebook files for testing.
-- **Mike** - Mike's notebook files for testing.
-- **X_name.ipynb** - Project notebooks.
+- **Data** - Immutable project data, see below for more info.
+- **Output** - Generated project files excluded from git repo.
+- **Tableau** - Draft data for Tableau.
+- **magene** - Project data analysis packages.
+- **Gene_Expression_Analysis.ipynb** - Data analysis.
+- **Gene_Expression_Dashboard.twbx** - Interactive Tableau dashboard.
+- **Visual_Analysis.ipynb** - Visualisation of final data.
 
-File `Data/TcgaTargetGtex_rsem_gene_tpm.txt` is ignored because it has size of 9GB. It can be downloaded from Xenabrowser from the link described above.
+## How to run it?
+
+Download gene expression [dataset](https://xenabrowser.net/datapages/?dataset=TcgaTargetGtex_rsem_gene_tpm&host=https%3A%2F%2Ftoil.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443) and copy unzipped file to `Data/TcgaTargetGtex_rsem_gene_tpm.txt`.
+
+Run all cells in `Gene_Expression_Analysis.ipynb` notebook one by one.

@@ -3,11 +3,10 @@ Data/TcgaTargetGtex_rsem_gene_tpm.txt
 Output/*
 !Output/.gitkeep
 
-# ipynb stuff
+# python
+__pycache__
 .ipynb_checkpoints
 
-# Mac stuff
+# System generated
 .DS_Store
-
-# Windows stuff
 Thumbs.db
