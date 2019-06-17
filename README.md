@@ -31,7 +31,7 @@ _References: Intelligencia.ai_
 - **Tableau** - Draft data for Tableau.
 - **magene** - Project data analysis packages.
 - **Gene_Expression_Analysis.ipynb** - Data analysis.
-- **Gene_Expression_Dashboard.twbx** - Interactive Tableau dashboard.
+- **Gene_Expression_Dashboard.twbx** - Interactive Tableau dashboard. Download free Tableau Reader software to use. https://www.tableau.com/products/reader
 - **Visual_Analysis.ipynb** - Visualisation of final data.
 
 ## How to run it?
